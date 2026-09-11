@@ -13,7 +13,6 @@
 
 Computer Science graduate (Amrita Vishwa Vidyapeetham) specializing in Machine Learning, Deep Learning, and applied GenAI. Built **CC-LoRA**, a parameter-efficient method that adapts cardiac MRI foundation models using clinical context, in collaboration with **Hospital Sant Pau** during an exchange program at the **Universitat de Barcelona** — reaching **91.0% AUC** on a 4-class cardiac diagnosis task, a 17-point lift over an image-only baseline. Also builds retrieval-augmented LLM systems and data tooling, including an enterprise RAG assistant and VizGenie, an automated EDA app. Open to AI/ML and Data Science roles across India and Europe.
 
-<br/>
 
 ## ⚙️ Skills
 
@@ -79,7 +78,6 @@ Computer Science graduate (Amrita Vishwa Vidyapeetham) specializing in Machine L
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
-<br/>
 
 ## 📋 Publications & Awards
 
@@ -92,7 +90,6 @@ Computer Science graduate (Amrita Vishwa Vidyapeetham) specializing in Machine L
 
 🏆 **Best Paper Award** — IEEE AIDE 2025 &nbsp;·&nbsp; 🏆 **Best Oral Paper** — ICLED-2024, Singapore
 
-<br/>
 
 ## 🎓 Certifications
 
@@ -104,7 +101,6 @@ Computer Science graduate (Amrita Vishwa Vidyapeetham) specializing in Machine L
 <img src="https://img.shields.io/badge/Cisco%2FOpenEDG-Python%20Essentials%201-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
-<br/>
 
 ## ✍️ Medium Writings
 
@@ -115,7 +111,6 @@ I write on [Medium](https://deepakjanapa.medium.com/), explaining ML/GenAI conce
 
 I also write **DJ's WealthLab**, a publication on personal investing and financial literacy.
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1A0000&height=100&section=footer"/>
 
