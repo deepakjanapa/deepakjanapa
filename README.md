@@ -1,99 +1,118 @@
-<h1 align="center">Hi, I'm Deepak Janapa 👋</h1>
-<h3 align="center">AI/ML Researcher · Cardiac MRI Foundation Models · Data Science</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepakjanapa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:janapadeepak345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://deepakjanapa.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2CB&height=220&section=header&text=DEEPAK%20JANAPA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=reading%20signal%20out%20of%20noise&descAlignY=58&descSize=20" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=00C2CB&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher+%C2%B7+Cardiac+MRI+Foundation+Models;91.0%25+AUC+%C2%B7+CC-LoRA+%C2%B7+Hospital+Sant+Pau%2C+Barcelona;4x+Published+Researcher+%C2%B7+2x+Best+Paper+Awards;Turning+clinical+signal+into+model+behavior" alt="Typing SVG" />
 
-### 🔬 About Me
+<a href="https://www.linkedin.com/in/deepakjanapa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:janapadeepak345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://deepakjanapa.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA 8.87) specializing in **Machine Learning, Deep Learning, and applied GenAI**. My undergraduate thesis on cardiac MRI foundation models was carried out in collaboration with **Hospital Sant Pau, Barcelona**, during an exchange program at the **Universitat de Barcelona** (grade 9.8).
+</div>
 
-- 🩺 My flagship project, **CC-LoRA**, adapts cardiac MRI foundation models with clinical data and reached **91.0% AUC** on a 4-class cardiac diagnosis task — a 17-point improvement over an image-only baseline.
-- 📄 Co-author on **4 Scopus-indexed / IEEE publications**, with a **Best Paper Award at IEEE AIDE 2025** and **Best Oral Paper at ICLED-2024** (Singapore).
-- 🧠 Currently building with **LLMs, RAG pipelines, and parameter-efficient fine-tuning (LoRA/PEFT)**.
-- 🌍 Open to AI/ML and Data Science roles across **India and Europe**.
+<br/>
 
----
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  PATIENT MONITOR                                     STATUS: ACTIVE  ║
+║  ────────────────────────────────────────────────────────────────    ║
+║  SUBJECT      Deepak Janapa                                          ║
+║  DOMAIN       Machine Learning · Deep Learning · Applied GenAI       ║
+║  BASE         Hyderabad, India  (prior: Barcelona, Spain)            ║
+║  READING      Open to AI/ML & Data Science roles — India / Europe    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-### 🚀 Featured Work
+## 🫀 01 — Case History
 
-| Project | Description | Stack |
-|---|---|---|
-| **[CC-LoRA](#)** — Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models | FiLM-modulated LoRA adapters injecting clinical/tabular data into a pretrained cardiac MRI model (CineMA). 91.0% AUC on 4-class LVH diagnosis at Hospital Sant Pau. | `PyTorch` `PyTorch Lightning` `CineMA` `ViTa` |
-| **[Hybrid LLM + RAG for Enterprise Knowledge Retrieval](#)** | AI assistant answering general and document-grounded queries via retrieval-augmented generation over PDFs/text. | `LangChain` `FAISS` `Ollama` `Flask` |
-| **[VizGenie](#)** | Web app for automated EDA — upload a CSV, get charts, heatmaps, and missing-data/duplicate stats instantly. | `Streamlit` `Plotly` `Seaborn` |
-| **[Movie Recommendation System](https://github.com/deepakjanapa/movie-recommendation-system)** | Content-based hybrid recommender using clustering, KNN, and cosine similarity — companion to a published paper. | `Python` `scikit-learn` `Streamlit` |
+I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA `8.87`) who got hooked on a simple question: *what does a machine actually see in a scan that a human can't?*
 
-> Replace the `#` links above with each project's actual repo URL once you've created/renamed them.
+That question became my undergraduate thesis — built in collaboration with **Hospital Sant Pau, Barcelona**, during an exchange at the **Universitat de Barcelona** (grade `9.8/10`) — and it's still the thread running through everything I build, from cardiac MRI models to RAG pipelines to weekend data-viz tools.
 
----
+```diff
++ Flagship result: CC-LoRA reached 91.0% AUC on a 4-class cardiac diagnosis task
++ That's a 17-point lift over an image-only baseline — clinical context, encoded.
+```
 
-### ✍️ Writing
+<br/>
 
-I write on [Medium](https://deepakjanapa.medium.com/) to explain ML/GenAI concepts in plain language:
+## 📡 02 — Signal Log  *(featured builds)*
 
-- [Hugging Face Access Tokens, APIs, and Local vs Ollama Usage — Explained](https://deepakjanapa.medium.com/hugging-face-access-tokens-apis-and-local-vs-ollama-usage-explained-2dd4cc53c0a9)
-- [Understanding VGG16: A Beginner-Friendly Guide to Convolutional Neural Networks](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
+<table>
+<tr><td width="30%"><b>🫀 CC-LoRA</b><br/><sub>Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models</sub></td>
+<td>FiLM-modulated LoRA adapters that inject clinical/tabular data straight into a pretrained cardiac MRI foundation model (CineMA) — teaching the model to weigh a patient's chart, not just their pixels.<br/><code>PyTorch</code> <code>PyTorch Lightning</code> <code>CineMA</code> <code>ViTa</code><br/>📈 <b>91.0% AUC</b>, 4-class LVH diagnosis, Hospital Sant Pau</td></tr>
+<tr><td><b>🔎 Enterprise RAG Assistant</b><br/><sub>Hybrid LLM + Retrieval-Augmented Generation</sub></td>
+<td>An AI assistant that answers both open questions and document-grounded ones — pulling precise answers out of PDFs and text corpora instead of hallucinating them.<br/><code>LangChain</code> <code>FAISS</code> <code>Ollama</code> <code>Flask</code></td></tr>
+<tr><td><b>📊 VizGenie</b><br/><sub>AI-assisted exploratory data analysis</sub></td>
+<td>Drop in a CSV, get charts, heatmaps, and missing-data diagnostics back in seconds — EDA without the boilerplate.<br/><code>Streamlit</code> <code>Plotly</code> <code>Seaborn</code></td></tr>
+<tr><td><b>🎬 Movie Recommender</b><br/><sub><a href="https://github.com/deepakjanapa/movie-recommendation-system">movie-recommendation-system →</a></sub></td>
+<td>Content-based hybrid recommender (clustering + KNN + cosine similarity) — the system behind one of my published papers.<br/><code>Python</code> <code>scikit-learn</code> <code>Streamlit</code></td></tr>
+</table>
 
-I also write **DJ's WealthLab**, a publication on personal investing and financial literacy — a side interest in translating dense topics into worked examples.
+> Repo links for CC-LoRA, the RAG assistant, and VizGenie go live here once each project has its own repo — say the word and I'll draft their individual READMEs too.
 
----
+<br/>
 
-### 🎓 Certifications
-
-- Oracle — AI Vector Search Certified Professional (2025)
-- Salesforce — Certified AI Associate (2024)
-- Coursera/Edureka — Advanced Microsoft Power BI (2025)
-- Cisco/OpenEDG — Python Essentials 1 (2024)
-
----
-
-### 🛠️ Tech Stack
+## 🧬 03 — Signal Processing Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
----
+<br/>
 
-### 📄 Publications
+## 📋 04 — Published Findings
 
-- Bridging the Emotional Gap in AI: A Study on Speech Emotion Recognition for Adaptive Human-Computer Interaction — *IEEE Xplore*
-- Object Intelligence Model: Enabling Context-Aware Robotic Interaction Through Integrated Object Detection and Material Recognition — *IEEE Xplore*
-- A Robust Hybrid Movie Recommendation System Using Clustering, K-Nearest Neighbors, and Cosine Similarity Techniques — *Sigma Journal of Engineering and Natural Sciences*
-- Federated Learning for Pregnancy Care: Smartwatch and Mobile App for Fetal Monitoring and Promoting Normal Deliveries — *Springer*
+| Title | Venue |
+|---|---|
+| **CC-LoRA: Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models** | IEEE AIDE 2025 — 🏆 *Best Paper* |
+| Bridging the Emotional Gap in AI: Speech Emotion Recognition for Adaptive HCI | IEEE Xplore — 🏆 *Best Oral Paper, ICLED-2024* |
+| Object Intelligence Model: Context-Aware Robotic Interaction via Object + Material Recognition | IEEE Xplore |
+| A Robust Hybrid Movie Recommendation System (Clustering + KNN + Cosine Similarity) | Sigma Journal of Engineering & Natural Sciences |
+| Federated Learning for Pregnancy Care: Smartwatch-Based Fetal Monitoring | Springer |
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🎓 05 — Continuing Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Deepak's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+`Oracle` AI Vector Search Certified Professional · `Salesforce` Certified AI Associate · `Power BI` Advanced (Coursera/Edureka) · `Cisco/OpenEDG` Python Essentials 1
 
----
+<br/>
 
-<p align="center"><i>📫 Reach me at janapadeepak345@gmail.com or on LinkedIn — always open to discussing ML research, RAG systems, or collaboration.</i></p>
+## 🗞️ 06 — Field Notes  *(writing)*
+
+I translate dense ML concepts into plain-language posts on **[Medium](https://deepakjanapa.medium.com/)**:
+
+- [Hugging Face Access Tokens, APIs, and Local vs Ollama Usage — Explained](https://deepakjanapa.medium.com/hugging-face-access-tokens-apis-and-local-vs-ollama-usage-explained-2dd4cc53c0a9)
+- [Understanding VGG16: A Beginner-Friendly Guide to CNNs](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
+
+...and on the side, I run **DJ's WealthLab**, a publication that applies the same "explain it with a worked example" habit to personal investing.
+
+<br/>
+
+## 📈 07 — Vitals Monitor
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjanapa&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,50:2C5364,100:0F2027&height=120&section=footer"/>
+
+<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — open to a conversation about cardiac AI, RAG systems, or where those two overlap.</sub></div>
