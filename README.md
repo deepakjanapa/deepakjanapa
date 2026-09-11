@@ -20,7 +20,7 @@
 ║  DOMAIN       Machine Learning · Deep Learning · Applied GenAI       ║
 ║  BASE         Hyderabad, India  (prior: Barcelona, Spain)            ║
 ║  READING      Open to AI/ML & Data Science roles — India / Europe    ║
-║  PASSION      Space & cosmology — still looking up                  ║
+║  PASSION      Artificial Intelligence | Space & cosmology            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -171,4 +171,4 @@ I translate dense ML concepts into plain-language posts on **[Medium](https://de
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1A0000&height=120&section=footer"/>
 
-<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — open to a conversation about cardiac AI, RAG systems, or where those two overlap.</sub></div>
+<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — Passionate about collaborating to shape a brighter, more wonderful future for our world through the power of AI.</sub></div>
