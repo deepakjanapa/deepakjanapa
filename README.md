@@ -8,6 +8,9 @@
   <a href="mailto:janapadeepak345@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://deepakjanapa.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 ---
@@ -33,6 +36,26 @@ I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA 8.87) speciali
 | **[Movie Recommendation System](https://github.com/deepakjanapa/movie-recommendation-system)** | Content-based hybrid recommender using clustering, KNN, and cosine similarity — companion to a published paper. | `Python` `scikit-learn` `Streamlit` |
 
 > Replace the `#` links above with each project's actual repo URL once you've created/renamed them.
+
+---
+
+### ✍️ Writing
+
+I write on [Medium](https://deepakjanapa.medium.com/) to explain ML/GenAI concepts in plain language:
+
+- [Hugging Face Access Tokens, APIs, and Local vs Ollama Usage — Explained](https://deepakjanapa.medium.com/hugging-face-access-tokens-apis-and-local-vs-ollama-usage-explained-2dd4cc53c0a9)
+- [Understanding VGG16: A Beginner-Friendly Guide to Convolutional Neural Networks](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
+
+I also write **DJ's WealthLab**, a publication on personal investing and financial literacy — a side interest in translating dense topics into worked examples.
+
+---
+
+### 🎓 Certifications
+
+- Oracle — AI Vector Search Certified Professional (2025)
+- Salesforce — Certified AI Associate (2024)
+- Coursera/Edureka — Advanced Microsoft Power BI (2025)
+- Cisco/OpenEDG — Python Essentials 1 (2024)
 
 ---
 
