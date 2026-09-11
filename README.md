@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2CB&height=220&section=header&text=DEEPAK%20JANAPA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=reading%20signal%20out%20of%20noise&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FFD700&height=220&section=header&text=DEEPAK%20JANAPA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=reading%20signal%20out%20of%20noise&descAlignY=58&descSize=20&descColor=FFD700" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=00C2CB&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher+%C2%B7+Cardiac+MRI+Foundation+Models;91.0%25+AUC+%C2%B7+CC-LoRA+%C2%B7+Hospital+Sant+Pau%2C+Barcelona;4x+Published+Researcher+%C2%B7+2x+Best+Paper+Awards;Turning+clinical+signal+into+model+behavior" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher+%C2%B7+Cardiac+MRI+Foundation+Models;91.0%25+AUC+%C2%B7+CC-LoRA+%C2%B7+Hospital+Sant+Pau%2C+Barcelona;4x+Published+Researcher+%C2%B7+2x+Best+Paper+Awards;Built+the+suit.+Then+iterated." alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/deepakjanapa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:janapadeepak345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,12 +14,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  PATIENT MONITOR                                     STATUS: ACTIVE  ║
+║  ARC REACTOR                                          STATUS: ACTIVE ║
 ║  ────────────────────────────────────────────────────────────────    ║
 ║  SUBJECT      Deepak Janapa                                          ║
 ║  DOMAIN       Machine Learning · Deep Learning · Applied GenAI       ║
 ║  BASE         Hyderabad, India  (prior: Barcelona, Spain)            ║
 ║  READING      Open to AI/ML & Data Science roles — India / Europe    ║
+║  NEXT MISSION Avengers: Doomsday, opening weekend, front row 🎬      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -105,14 +106,14 @@ I translate dense ML concepts into plain-language posts on **[Medium](https://de
 ## 📈 07 — Vitals Monitor
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0:1A0000,100:8B0000" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0:1A0000,100:8B0000" alt="Top languages" height="165"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjanapa&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjanapa&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=1A0000" alt="Streak stats" height="165"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,50:2C5364,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1A0000&height=120&section=footer"/>
 
 <div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — open to a conversation about cardiac AI, RAG systems, or where those two overlap.</sub></div>
