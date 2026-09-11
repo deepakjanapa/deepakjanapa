@@ -26,7 +26,7 @@
 
 ## 🫀 01 — Case History
 
-I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA `8.87`) who got hooked on a simple question: *what does a machine actually see in a scan that a human can't?*
+I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham) who got hooked on a simple question: *what does a machine actually see in a scan that a human can't?*
 
 That question became my undergraduate thesis — built in collaboration with **Hospital Sant Pau, Barcelona**, during an exchange at the **Universitat de Barcelona** (grade `9.8/10`) — and it's still the thread running through everything I build, from cardiac MRI models to RAG pipelines to weekend data-viz tools.
 
