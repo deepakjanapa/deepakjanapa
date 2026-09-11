@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FFD700&height=220&section=header&text=DEEPAK%20JANAPA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=reading%20signal%20out%20of%20noise&descAlignY=58&descSize=20&descColor=FFD700" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher+%C2%B7+Cardiac+MRI+Foundation+Models;91.0%25+AUC+%C2%B7+CC-LoRA+%C2%B7+Hospital+Sant+Pau%2C+Barcelona;4x+Published+Researcher+%C2%B7+2x+Best+Paper+Awards;Built+the+suit.+Then+iterated." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FFD700&height=200&section=header&text=DEEPAK%20JANAPA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%C2%B7%20Cardiac%20MRI%20Foundation%20Models&descAlignY=58&descSize=17&descColor=FFD700" width="100%"/>
 
 <a href="https://www.linkedin.com/in/deepakjanapa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:janapadeepak345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,47 +10,13 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ARC REACTOR                                          STATUS: ACTIVE ║
-║  ────────────────────────────────────────────────────────────────    ║
-║  SUBJECT      Deepak Janapa                                          ║
-║  DOMAIN       Machine Learning · Deep Learning · Applied GenAI       ║
-║  BASE         Hyderabad, India  (prior: Barcelona, Spain)            ║
-║  READING      Open to AI/ML & Data Science roles — India / Europe    ║
-║  PASSION      Artificial Intelligence | Space & cosmology            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+## 🧬 Biography
 
-## 🫀 01 — Case History
-
-I'm a Computer Science graduate (Amrita Vishwa Vidyapeetham) who got hooked on a simple question: *what does a machine actually see in a scan that a human can't?*
-
-That question became my undergraduate thesis — built in collaboration with **Hospital Sant Pau, Barcelona**, during an exchange at the **Universitat de Barcelona** (grade `9.8/10`) — and it's still the thread running through everything I build, from cardiac MRI models to RAG pipelines to weekend data-viz tools.
-
-```diff
-+ Flagship result: CC-LoRA reached 91.0% AUC on a 4-class cardiac diagnosis task
-+ That's a 17-point lift over an image-only baseline — clinical context, encoded.
-```
+Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA `8.87`) specializing in Machine Learning, Deep Learning, and applied GenAI. Built **CC-LoRA**, a parameter-efficient method that adapts cardiac MRI foundation models using clinical context, in collaboration with **Hospital Sant Pau** during an exchange program at the **Universitat de Barcelona** (grade `9.8/10`) — reaching **91.0% AUC** on a 4-class cardiac diagnosis task, a 17-point lift over an image-only baseline. Also builds retrieval-augmented LLM systems and data tooling, including an enterprise RAG assistant and VizGenie, an automated EDA app. Open to AI/ML and Data Science roles across India and Europe.
 
 <br/>
 
-## 📡 02 — Signal Log  *(featured builds)*
-
-<table>
-<tr><td width="30%"><b>🫀 CC-LoRA</b><br/><sub>Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models</sub></td>
-<td>FiLM-modulated LoRA adapters that inject clinical/tabular data straight into a pretrained cardiac MRI foundation model (CineMA) — teaching the model to weigh a patient's chart, not just their pixels.<br/><code>PyTorch</code> <code>PyTorch Lightning</code> <code>CineMA</code> <code>ViTa</code><br/>📈 <b>91.0% AUC</b>, 4-class LVH diagnosis, Hospital Sant Pau</td></tr>
-<tr><td><b>🔎 Enterprise RAG Assistant</b><br/><sub>Hybrid LLM + Retrieval-Augmented Generation</sub></td>
-<td>An AI assistant that answers both open questions and document-grounded ones — pulling precise answers out of PDFs and text corpora instead of hallucinating them.<br/><code>LangChain</code> <code>FAISS</code> <code>Ollama</code> <code>Flask</code></td></tr>
-<tr><td><b>📊 VizGenie</b><br/><sub>AI-assisted exploratory data analysis</sub></td>
-<td>Drop in a CSV, get charts, heatmaps, and missing-data diagnostics back in seconds — EDA without the boilerplate.<br/><code>Streamlit</code> <code>Plotly</code> <code>Seaborn</code></td></tr>
-<tr><td><b>🎬 Movie Recommender</b><br/><sub><a href="https://github.com/deepakjanapa/movie-recommendation-system">movie-recommendation-system →</a></sub></td>
-<td>Content-based hybrid recommender (clustering + KNN + cosine similarity) — the system behind one of my published papers.<br/><code>Python</code> <code>scikit-learn</code> <code>Streamlit</code></td></tr>
-</table>
-
-<br/>
-
-## 🧬 03 — Signal Processing Toolkit
+## ⚙️ Skills
 
 **Languages & Querying**
 <p align="left">
@@ -118,7 +82,7 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 <br/>
 
-## 📋 04 — Published Findings
+## 📋 Publications & Awards
 
 | Title | Venue |
 |---|---|
@@ -129,11 +93,9 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 🏆 **Best Paper Award** — IEEE AIDE 2025 &nbsp;·&nbsp; 🏆 **Best Oral Paper** — ICLED-2024, Singapore
 
-<sub>4 Scopus-indexed / IEEE publications, 2 best-paper honors above — plus CC-LoRA (see Signal Log above), which is headed toward its own publication.</sub>
-
 <br/>
 
-## 🎓 05 — Continuing Education
+## 🎓 Certifications
 
 <p align="left">
 <img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Certified%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -145,28 +107,17 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 <br/>
 
-## 🗞️ 06 — Field Notes  *(writing)*
+## ✍️ Medium Writings
 
-I translate dense ML concepts into plain-language posts on **[Medium](https://deepakjanapa.medium.com/)**:
+I write on [Medium](https://deepakjanapa.medium.com/), explaining ML/GenAI concepts in plain language:
 
 - [Hugging Face Access Tokens, APIs, and Local vs Ollama Usage — Explained](https://deepakjanapa.medium.com/hugging-face-access-tokens-apis-and-local-vs-ollama-usage-explained-2dd4cc53c0a9)
-- [Understanding VGG16: A Beginner-Friendly Guide to CNNs](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
+- [Understanding VGG16: A Beginner-Friendly Guide to Convolutional Neural Networks](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
 
-...and on the side, I run **DJ's WealthLab**, a publication that applies the same "explain it with a worked example" habit to personal investing.
-
-<br/>
-
-## 📈 07 — Vitals Monitor
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0:1A0000,100:8B0000" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0:1A0000,100:8B0000" alt="Top languages" height="165"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjanapa&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=1A0000" alt="Streak stats" height="165"/>
-</div>
+I also write **DJ's WealthLab**, a publication on personal investing and financial literacy.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1A0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1A0000&height=100&section=footer"/>
 
-<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — Passionate about collaborating to shape a brighter, more wonderful future for our world through the power of AI.</sub></div>
+<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b></sub></div>
