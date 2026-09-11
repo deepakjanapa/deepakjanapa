@@ -137,7 +137,13 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 ## 🎓 05 — Continuing Education
 
-`Oracle` AI Vector Search Certified Professional · `Salesforce` Certified AI Associate · `Power BI` Advanced (Coursera/Edureka) · `Cisco/OpenEDG` Python Essentials 1
+<p align="left">
+<img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Certified%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-Certified%20AI%20Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Coursera%2FEdureka-Advanced%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco%2FOpenEDG-Python%20Essentials%201-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
 
 <br/>
 
