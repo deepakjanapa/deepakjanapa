@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FFD700&height=200&section=header&text=DEEPAK%20JANAPA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%C2%B7%20Cardiac%20MRI%20Foundation%20Models&descAlignY=58&descSize=17&descColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FFD700&height=200&section=header&text=DEEPAK%20JANAPA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%C2%B7%20Data%20MRI%20Scientist&descAlignY=58&descSize=17&descColor=FFD700" width="100%"/>
 
 <a href="https://www.linkedin.com/in/deepakjanapa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:janapadeepak345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
