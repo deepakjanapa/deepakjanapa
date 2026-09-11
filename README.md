@@ -50,8 +50,6 @@ That question became my undergraduate thesis — built in collaboration with **H
 <td>Content-based hybrid recommender (clustering + KNN + cosine similarity) — the system behind one of my published papers.<br/><code>Python</code> <code>scikit-learn</code> <code>Streamlit</code></td></tr>
 </table>
 
-> Repo links for CC-LoRA, the RAG assistant, and VizGenie go live here once each project has its own repo — say the word and I'll draft their individual READMEs too.
-
 <br/>
 
 ## 🧬 03 — Signal Processing Toolkit
