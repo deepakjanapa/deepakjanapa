@@ -20,7 +20,7 @@
 ║  DOMAIN       Machine Learning · Deep Learning · Applied GenAI       ║
 ║  BASE         Hyderabad, India  (prior: Barcelona, Spain)            ║
 ║  READING      Open to AI/ML & Data Science roles — India / Europe    ║
-║  NEXT MISSION Avengers: Doomsday, opening weekend, front row 🎬      ║
+║  PASSION      Space & cosmology — still looking up                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -56,20 +56,66 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 ## 🧬 03 — Signal Processing Toolkit
 
+**Languages & Querying**
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**Machine Learning**
+<p align="left">
+<img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised%20Learning-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNNs-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-8B0000?style=flat-square"/>
+</p>
+
+**Deep Learning & GenAI**
+<p align="left">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLMs-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRA%2FPEFT-8B0000?style=flat-square"/>
+</p>
+
+**Data Engineering**
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Warehousing-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCD-4169E1?style=flat-square"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+**Data Analysis & Visualization**
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EDA-3776AB?style=flat-square"/>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
 <br/>
@@ -78,11 +124,14 @@ That question became my undergraduate thesis — built in collaboration with **H
 
 | Title | Venue |
 |---|---|
-| **CC-LoRA: Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models** | IEEE AIDE 2025 — 🏆 *Best Paper* |
-| Bridging the Emotional Gap in AI: Speech Emotion Recognition for Adaptive HCI | IEEE Xplore — 🏆 *Best Oral Paper, ICLED-2024* |
+| Bridging the Emotional Gap in AI: Speech Emotion Recognition for Adaptive HCI | IEEE Xplore |
 | Object Intelligence Model: Context-Aware Robotic Interaction via Object + Material Recognition | IEEE Xplore |
 | A Robust Hybrid Movie Recommendation System (Clustering + KNN + Cosine Similarity) | Sigma Journal of Engineering & Natural Sciences |
 | Federated Learning for Pregnancy Care: Smartwatch-Based Fetal Monitoring | Springer |
+
+🏆 **Best Paper Award** — IEEE AIDE 2025 &nbsp;·&nbsp; 🏆 **Best Oral Paper** — ICLED-2024, Singapore
+
+<sub>4 Scopus-indexed / IEEE publications, 2 best-paper honors above — plus CC-LoRA (see Signal Log above), which is headed toward its own publication.</sub>
 
 <br/>
 
