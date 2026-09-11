@@ -12,7 +12,7 @@
 
 ## 🧬 Biography
 
-Computer Science graduate (Amrita Vishwa Vidyapeetham, CGPA `8.87`) specializing in Machine Learning, Deep Learning, and applied GenAI. Built **CC-LoRA**, a parameter-efficient method that adapts cardiac MRI foundation models using clinical context, in collaboration with **Hospital Sant Pau** during an exchange program at the **Universitat de Barcelona** (grade `9.8/10`) — reaching **91.0% AUC** on a 4-class cardiac diagnosis task, a 17-point lift over an image-only baseline. Also builds retrieval-augmented LLM systems and data tooling, including an enterprise RAG assistant and VizGenie, an automated EDA app. Open to AI/ML and Data Science roles across India and Europe.
+Computer Science graduate (Amrita Vishwa Vidyapeetham) specializing in Machine Learning, Deep Learning, and applied GenAI. Built **CC-LoRA**, a parameter-efficient method that adapts cardiac MRI foundation models using clinical context, in collaboration with **Hospital Sant Pau** during an exchange program at the **Universitat de Barcelona** — reaching **91.0% AUC** on a 4-class cardiac diagnosis task, a 17-point lift over an image-only baseline. Also builds retrieval-augmented LLM systems and data tooling, including an enterprise RAG assistant and VizGenie, an automated EDA app. Open to AI/ML and Data Science roles across India and Europe.
 
 <br/>
 
