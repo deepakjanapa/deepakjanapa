@@ -1,157 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0000,50:8B0000,100:FFD700&height=230&section=header&text=DEEPAK%20JANAPA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Genius%2C%20not%20by%20accident.%20Built%2C%20one%20iteration%20at%20a%20time.&descAlignY=58&descSize=18&descColor=FFD700" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=AI%2FML+Researcher+%C2%B7+Cardiac+MRI+Foundation+Models;Sometimes+you+gotta+run+before+you+can+walk;Ambitious%2C+with+integrity+%E2%80%94+non-negotiable;Currently+running%3A+Mark+IV+(and+still+iterating)" alt="Typing SVG" />
-
-<a href="https://www.linkedin.com/in/deepakjanapa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:janapadeepak345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://deepakjanapa.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0000,50:8B0000,100:FFD700&height=200&section=header&text=DEEPAK%20JANAPA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=still%20building%20the%20suit&descAlignY=62&descSize=17&descColor=FFD700" width="100%"/>
 
 </div>
 
 <br/>
 
-```
-> BOOT SEQUENCE INITIATED...
-> USER IDENTIFIED: Deepak Janapa
-> BASE: Hyderabad, India        FIELD OPS: Barcelona, Spain
-> CORE DIRECTIVES:   AMBITION........[ONLINE]
-                      INTEGRITY.......[NON-NEGOTIABLE]
-                      CURIOSITY.......[OVERCLOCKED]
-                      PASSPORT........[WELL-USED]
-> STATUS: Open to AI/ML & Data Science roles — India / Europe
-> All systems nominal. Proceeding.
-```
+I build things that ask a slightly annoying question first: *why does this actually work?* Then I go find out. That habit has taken me from a village with no cell signal to a cardiology ward in Barcelona, and I'm still not tired of it.
+
+Here's the rest of the story.
 
 <br/>
 
-## ⚡ 01 — Origin Story
+### T-minus
 
-Every engineer has a garage moment. Mine was a simple, annoying question: *if a model can see a cardiac MRI, why can't it also see the patient's chart the way a cardiologist does?*
+I grew up wanting to understand things that were bigger than the room I was in — space, mostly, at first. That never really left. These days the "bigger thing" is usually a dataset, a foundation model, or a country I haven't been to yet, but the instinct is the same one that had me staring at the sky as a kid: *how does this actually work, and can I take it apart to find out?*
 
-That question turned into an undergraduate thesis built in collaboration with **Hospital Sant Pau, Barcelona**, during an exchange at the **Universitat de Barcelona** (grade `9.8/10`) — and it's the same instinct that shows up whenever I build anything: don't just make it work, make it understand *why* it's working.
-
-CS grad, **Amrita Vishwa Vidyapeetham**, CGPA `8.87`. Everything below is what happened after that instinct got loose.
+I finished my Computer Science degree not because I wanted a piece of paper, but because every course was just permission to keep asking that question with better tools.
 
 <br/>
 
-## 🛠️ 02 — Suit Log  *(the builds, evenly weighted — no favorites)*
+### The question that started it
 
-<table>
-<tr>
-<td width="26%" align="center"><b>MARK I</b><br/>🫀<br/><b>CC-LoRA</b></td>
-<td>Clinically-conditioned adaptation of a cardiac MRI foundation model. FiLM-modulated LoRA adapters teach the model to weigh a patient's clinical data alongside the image — not just the pixels.<br/><code>PyTorch</code> <code>PyTorch Lightning</code> <code>CineMA</code> <code>ViTa</code><br/>📈 <b>91.0% AUC</b> on 4-class LVH diagnosis — a 17-point jump over an image-only baseline.</td>
-</tr>
-<tr>
-<td align="center"><b>MARK II</b><br/>🔎<br/><b>Enterprise RAG Assistant</b></td>
-<td>A hybrid LLM assistant that answers open questions <i>and</i> document-grounded ones by retrieving straight from your own PDFs and text — precision over guesswork.<br/><code>LangChain</code> <code>FAISS</code> <code>Ollama</code> <code>Flask</code></td>
-</tr>
-<tr>
-<td align="center"><b>MARK III</b><br/>📊<br/><b>VizGenie</b></td>
-<td>Drop in a CSV, walk away with charts, heatmaps, and missing-data diagnostics — exploratory data analysis with the boring parts automated.<br/><code>Streamlit</code> <code>Plotly</code> <code>Seaborn</code></td>
-</tr>
-<tr>
-<td align="center"><b>MARK IV</b><br/>🎬<br/><a href="https://github.com/deepakjanapa/movie-recommendation-system">Movie Recommender →</a></td>
-<td>Content-based hybrid recommendation engine (clustering + KNN + cosine similarity) — the system behind one of my published papers.<br/><code>Python</code> <code>scikit-learn</code> <code>Streamlit</code></td>
-</tr>
-</table>
+Somewhere in my final year, the question got specific: *a model can look at a cardiac MRI — so why can't it also look at the patient's chart, the way an actual cardiologist would?*
 
-> CC-LoRA, the RAG assistant, and VizGenie will link straight to their repos here the moment each one exists — say the word and I'll draft matching READMEs for all three.
+That question didn't stay theoretical. It turned into a thesis, a collaboration with cardiologists at **Hospital Sant Pau**, and a semester in **Barcelona** that started as an exchange program and ended as one of the best decisions I've made. I sat in rooms with clinicians who didn't care about my architecture diagrams — they cared whether the model's confusion matrix meant anything to a real diagnosis. So I learned to translate. That skill turned out to matter more than the code.
+
+The thing I built there — I call it **CC-LoRA** — teaches a pretrained cardiac imaging model to weigh clinical data the way a doctor does, not just pixels. It got good enough at it that the numbers earned a Best Paper award. But honestly, the award isn't the part I'd tell you about at dinner. The part I'd tell you about is the first time a cardiologist looked at the model's reasoning and said, *"yeah, that's actually how I'd think about it."*
 
 <br/>
 
-## 🛰️ 03 — Field Missions  *(work that wasn't just code)*
+### The other builds
 
-**Undergraduate Research Collaborator — Hospital Sant Pau (Cardiology) & Universitat de Barcelona**
-Sat in the room with actual cardiologists. Translated confusion matrices and performance trade-offs into things a clinician could act on — and let their pushback reshape the model, not just the paper.
+CC-LoRA gets top billing because it's the one with the awards attached, but it wasn't the only thing I was building.
 
-**Live-in-Labs Field Researcher — Gangireddipalli Village, Andhra Pradesh**
-Traded the lab for transect walks and household surveys. Used problem trees and Venn diagrams to find the village's most urgent issue, then co-authored an SSRN paper on water accessibility challenges from it.
+Around the same time, I got mildly obsessed with the gap between "the answer is technically in this PDF somewhere" and "I can actually find it." So I built a **retrieval-augmented assistant** that reads through documents and gives you the real answer instead of a hallucinated one — the unglamorous, extremely useful kind of AI.
 
-*Two very different rooms. Same method: listen first, model second.*
+And because staring at raw CSVs for an hour before you can even start analyzing them is its own special kind of pain, I built **VizGenie** — upload a file, get your charts, your heatmaps, your missing-data report, instantly. It's the tool I wish existed the first ten times I had to explore a messy dataset.
 
-<br/>
-
-## 🧭 04 — Flight Log  *(hodophile mode: engaged)*
-
-I'd rather show up somewhere new than read about it. Barcelona wasn't just an exchange semester — it was proof that changing your coordinates changes your questions.
-
-```
-DESTINATIONS LOGGED:   India 🇮🇳 · Spain 🇪🇸 · [ your list goes here ]
-NEXT WAYPOINT:         TBD
-```
-
-> Tell me your actual travel list and I'll turn this into a real stamped-passport-style log instead of a placeholder.
+There's also a much earlier project — a movie recommender that mixes clustering, nearest neighbors, and cosine similarity — that ended up being the seed for one of my published papers. Proof that not every good idea needs to be complicated to be worth writing up.
 
 <br/>
 
-## ⚙️ 05 — Stark-Grade Toolkit
+### The village with no data
 
-<p align="left">
+Not everything I've worked on had a GPU attached. I spent time as a field researcher in a rural village in Andhra Pradesh, walking through it with a team, mapping out its most urgent problems by hand — no dashboards, no models, just conversations and a lot of walking. We landed on water accessibility as the issue that mattered most, and I co-authored a paper on it.
+
+It taught me something the labs didn't: the fanciest model in the world is useless if you never bothered to understand the actual problem first. I bring that lesson back into every technical project I touch now.
+
+<br/>
+
+### Passport stamps
+
+I don't sit still well. Barcelona proved that changing your coordinates changes your questions — I came back a different kind of engineer than I left as. I'm the type who'd rather get slightly lost in a new city than read a guidebook about it.
+
+*(This section's still got room to grow — tell me where you've actually been and I'll turn this into a real log instead of a teaser.)*
+
+<br/>
+
+### The workshop
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
-<br/>
-
-## 📁 06 — Classified Findings  *(publications)*
-
-| Title | Venue |
-|---|---|
-| **CC-LoRA: Clinically-Conditioned Adaptation of Cardiac MRI Foundation Models** | IEEE AIDE 2025 — 🏆 *Best Paper* |
-| Bridging the Emotional Gap in AI: Speech Emotion Recognition for Adaptive HCI | IEEE Xplore — 🏆 *Best Oral Paper, ICLED-2024* |
-| Object Intelligence Model: Context-Aware Robotic Interaction via Object + Material Recognition | IEEE Xplore |
-| A Robust Hybrid Movie Recommendation System (Clustering + KNN + Cosine Similarity) | Sigma Journal of Engineering & Natural Sciences |
-| Federated Learning for Pregnancy Care: Smartwatch-Based Fetal Monitoring | Springer |
+<p align="center"><sub>the usual suspects — PyTorch and coffee, mostly, with Power BI when someone needs a chart instead of a model</sub></p>
 
 <br/>
 
-## 🎓 07 — Training Log  *(certifications)*
+### Paper trail
 
-`Oracle` AI Vector Search Certified Professional · `Salesforce` Certified AI Associate · `Power BI` Advanced (Coursera/Edureka) · `Cisco/OpenEDG` Python Essentials 1
-
-<br/>
-
-## 📡 08 — Transmissions  *(writing)*
-
-I write on **[Medium](https://deepakjanapa.medium.com/)** — turning dense ML ideas into plain language:
-
-- [Hugging Face Access Tokens, APIs, and Local vs Ollama Usage — Explained](https://deepakjanapa.medium.com/hugging-face-access-tokens-apis-and-local-vs-ollama-usage-explained-2dd4cc53c0a9)
-- [Understanding VGG16: A Beginner-Friendly Guide to CNNs](https://deepakjanapa.medium.com/understanding-vgg16-a-beginner-friendly-guide-to-convolutional-neural-networks-1dcf0c320e25)
-
-Off-duty, I also run **DJ's WealthLab** — same habit (explain it with a worked example), pointed at personal investing instead of neural nets.
+Four publications so far, two of them with a "Best" attached to the title (IEEE AIDE 2025, ICLED-2024) — covering everything from cardiac diagnosis to speech emotion recognition to a robot figuring out what it's looking at. I like that they don't all sit in the same subfield. Getting bored is how I end up learning something new.
 
 <br/>
 
-## 📊 09 — System Diagnostics
+### Off the clock
+
+I write, mostly to force myself to actually understand something instead of just using it. That's ended up as a small pile of posts on **[Medium](https://deepakjanapa.medium.com/)** explaining things like Hugging Face's token system and how CNNs like VGG16 actually see an image — and a separate publication, **DJ's WealthLab**, where I do the same thing to personal investing instead of neural networks.
+
+<br/>
+
+### Vitals
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&theme=dracula&hide_border=true" alt="Top languages" height="165"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjanapa&theme=dracula&hide_border=true" alt="Streak stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakjanapa&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjanapa&layout=compact&theme=dracula&hide_border=true" alt="Top languages" height="160"/>
 </div>
 
 <br/>
 
-## 🎯 My Directive
+<div align="center">
+<sub>Ambitious, with integrity — the first one's easy, the second one's the actual job.</sub>
+<br/><br/>
+📫 <b>janapadeepak345@gmail.com</b> · <a href="https://www.linkedin.com/in/deepakjanapa/">LinkedIn</a>
+</div>
 
-> Ambitious, with integrity. The first without the second is just noise.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,50:8B0000,100:1A0000&height=120&section=footer"/>
-
-<div align="center"><sub>📫 <b>janapadeepak345@gmail.com</b> — reach out about cardiac AI, RAG systems, or your next travel recommendation.</sub></div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,50:8B0000,100:1A0000&height=100&section=footer"/>
